@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>320923018381-1k4ohf4l723dppjkf5705k20t9780dd8.apps.googleusercontent.com</string>
+	<string>***</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.320923018381-1k4ohf4l723dppjkf5705k20t9780dd8</string>
+	<string>***</string>
 	<key>API_KEY</key>
-	<string>AIzaSyB1B1vjlxUJMvUBiFsj0C9zR08Q_fJ3sKM</string>
+	<string>***</string>
 	<key>GCM_SENDER_ID</key>
-	<string>320923018381</string>
+	<string>***</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>org.edudubai.Finance-for-Teens</string>
+	<string>***</string>
 	<key>PROJECT_ID</key>
 	<string>finance-for-teens-f295e</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:320923018381:ios:61270224572cc451b8aec4</string>
+	<string>***</string>
 </dict>
 </plist>
