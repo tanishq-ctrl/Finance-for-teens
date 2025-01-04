@@ -27,7 +27,7 @@ Finance for Teens is an educational app designed to empower teenagers with essen
 ## 📸 Screenshots
 
 ### Lessons
-<img src="screenshots/1.jpg" alt="Lessons Overview" width="400" height="300"/>
+<img src="screenshots/1.jpg" alt="Lessons Overview" width="400" height="600"/>
 *Overview of financial lessons with engaging content.*
 
 ![Lesson Details](screenshots/lesson_details.png)
