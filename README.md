@@ -36,25 +36,24 @@ Finance for Teens is an educational app designed to empower teenagers with essen
 
 
 ### Budget Scenarios
-![Budget Overview](screenshots/budget_overview.png)
-*Interactive budgeting scenarios to practice financial planning.*
+<div style="display: flex; gap: 20px;">
+  <img src="screenshots/4f.jpg" alt="Budget Overview" width="200" height="400" style="border-radius: 15px;"/>
+  <img src="screenshots/5f.jpg" alt="Budget Details" width="200" height="400" style="border-radius: 15px;"/>
+  <img src="screenshots/6f.jpg" alt="Budget Details" width="200" height="400" style="border-radius: 15px;"/>
+</div>
 
-![Budget Details](screenshots/budget_details.png)
-*Detailed view of a budgeting scenario with key points.*
 
 ### Investment Insights
-![Investment Overview](screenshots/invest_overview.png)
-*Overview of investment topics with engaging content.*
-
-![Investment Quiz](screenshots/invest_quiz.png)
-*Quiz to test knowledge on investment topics.*
+<div style="display: flex; gap: 20px;">
+  <img src="screenshots/7f.jpg" alt="Investment Insights Overview" width="200" height="400" style="border-radius: 15px;"/>
+  <img src="screenshots/8f.jpg" alt="Quiz" width="200" height="400" style="border-radius: 15px;"/>
+</div>
 
 ### Profile Tracking
-![Profile Overview](screenshots/profile_overview.png)
-*Overview of user profile with progress tracking.*
-
-![Achievements](screenshots/achievements.png)
-*View of earned badges and achievements.*
+<div style="display: flex; gap: 20px;">
+  <img src="screenshots/9f.jpg" alt="Profile and Saving progress" width="200" height="400" style="border-radius: 15px;"/>
+  <img src="screenshots/10f.jpg" alt="Acheivement and Stats" width="200" height="400" style="border-radius: 15px;"/>
+</div>
 
 ## 🛠 Installation
 
